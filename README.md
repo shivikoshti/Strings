@@ -4,6 +4,6 @@ A string in C++ is a sequence of characters, commonly used to represent text. It
 ## Syntax 
 string myString = "Hello, World!";<br>
 ## Features
-String Length: You can get the length of a string object by using a 'size()' function or a 'length()' function.
-String Concatenation: Use the '+' operator to concatenate strings and create a new string.
-Palindrome Detection: Check if a string is a palindrome (i.e., the reverse of the string is the same as the original).
+1-String Length: You can get the length of a string object by using a 'size()' function or a 'length()' function.<br>
+2-String Concatenation: Use the '+' operator to concatenate strings and create a new string.<br>
+3-Palindrome Detection: Check if a string is a palindrome (i.e., the reverse of the string is the same as the original).
